@@ -1,2 +1,4 @@
 # OffensiveTools
-Some of my offensive tools shared with you...
+
+EDUCATIONAL PURPOSES ONLY!
+I MEAN IT!
